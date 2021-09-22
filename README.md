@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jagannath (@ajagannathpatro)
+- 👀 I’m interested in Bioinformatics, Data Science, Software Developement, Product Management
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on 
+- 📫 You can reach me ...
